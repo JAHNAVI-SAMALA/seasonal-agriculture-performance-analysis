@@ -153,11 +153,17 @@ Fertilizer and nutrient variables showed very weak individual linear correlation
 The project includes:
 
 - Average Yield by Season
+![alt text](visualizations/Avg_yield_season.png)
 - Average Profit by Season
+![alt text](visualizations/Avg_profit_season.png)
 - Average Profit by Crop
+![alt text](visualizations/Avg_profit_crop.png)
 - Water Efficiency vs Yield
+![alt text](visualizations/Water_efficiency.png)
 - Average Yield by Irrigation Method and Season
+![alt text](visualizations/Avg_yield_irrigation.png)
 - Correlation Heatmap
+![alt text](visualizations/heatmap.png)
 
 ## 💡 Recommendations
 
